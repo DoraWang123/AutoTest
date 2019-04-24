@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 wangdan  branch1的内容
+=======
+wangdan master内容
+>>>>>>> master
